@@ -124,7 +124,7 @@ jobs:
 
         run: |
 
-          function ToIntOr($v, $def){ if("$v" -match '^\d+$'){[int]$v}else{[int]$def} }
+        
 
 
 
